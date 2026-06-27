@@ -1,0 +1,36 @@
+# Python build artifacts and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.python-version
+
+# IDE and Environment settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Distribution and Build outputs (PyInstaller, cx_Freeze, etc.)
+build/
+dist/
+*.dist/
+*.spec
+
+# Inno Setup compiler outputs
+Output/
+_ISPack*.tmp
+
+# Log files and temporary dumps
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Executables and Dynamic Link Libraries and __internal folder
+*.exe
+*.dll
+__internal

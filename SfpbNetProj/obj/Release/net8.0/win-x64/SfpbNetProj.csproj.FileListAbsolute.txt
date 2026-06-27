@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SfpbNetProj\bin\Release\net8.0\win-x64\SfpbNetProj.deps.json
+C:\Users\PC\Desktop\SfpbNetProj\bin\Release\net8.0\win-x64\SfpbNetProj.dll
+C:\Users\PC\Desktop\SfpbNetProj\bin\Release\net8.0\win-x64\SfpbNetProj.pdb
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\SfpbNetProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\SfpbNetProj.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\SfpbNetProj.AssemblyInfo.cs
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\SfpbNetProj.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\SfpbNetProj.dll
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\refint\SfpbNetProj.dll
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\SfpbNetProj.pdb
+C:\Users\PC\Desktop\SfpbNetProj\obj\Release\net8.0\win-x64\ref\SfpbNetProj.dll
