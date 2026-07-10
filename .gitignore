@@ -33,4 +33,6 @@ _ISPack*.tmp
 # Executables and Dynamic Link Libraries and __internal folder
 *.exe
 *.dll
-__internal
+__internal/
+_internal/
+*.reg
