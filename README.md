@@ -16,7 +16,6 @@ The following core security mitigations are currently in development for the nex
 2. **Drive-by Download Interception:** Automatic termination of stealth background downloads attempting to drop executable payloads without explicit user consent.
 3. **SHA-256 Hash Verification:** Built-in cryptographic integrity checks for downloaded artifacts to guard against local system compromise and file-tampering.
 4. **Brotli Compression Evaluation:** Assessing the native `br` compression stack integration for faster data transmission overhead.
-s.
 
 🛠️ How to Run
 ### Running the Executable
