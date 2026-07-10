@@ -2,6 +2,19 @@
 
 All notable changes to the **SFProBrows** project will be documented in this file.
 
+## [1.1.0] - 2026-07-10
+### Added
+* Integrated a native Python-based intelligent ad-blocker (`AdvancedDataSaverInterceptor`) to intercept and block trackers and advertisements at the network level.
+* Added 3rd party image and media filtering to save bandwidth while preserving website layout layouts.
+* Integrated **Loguru** for advanced, date-stamped logging routed directly to `AppData/Local/SFProBrows/logs`.
+* Added **Icecream (ic)** debugger integration for cleaner error tracking and streamlined future diagnostics.
+
+### Changed
+* Bypassed the C# Engine (`sfpb_net.cs`) to eliminate core runtime conflicts and ensure maximum system stability.
+* Enhanced local DLL directory discovery security via Windows-specific `add_dll_directory` validations.
+
+---
+
 ## [1.0.0] - 2026-06-26
 ### Changed
 * Core architecture migrated to **PySide6** for advanced UI layout and enhanced web engine performance.
