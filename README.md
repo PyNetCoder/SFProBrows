@@ -6,7 +6,17 @@ This project is actively developed and maintained by PyNetCoder Software Corpora
 🚀 Features
 - **High Performance:** Optimized for fast page loading times with minimal resource consumption.
 - **Security-Oriented:** A secure browsing infrastructure that prioritizes user privacy.
+- **Intelligent AdBlocker (New):** Native Python-level network interception targeting trackers, intrusive ads, and malicious third-party scripts.
+- **Advanced Logging (New):** Integrated with Loguru and Icecream for seamless debug tracking and local automated logs stored in `AppData/Local/SFProBrows`.
 - **Windows Integration:** Fully compatible with the Windows default browser selection ecosystem via Registry optimizations.
+
+🗺️ 1.2.0 Security Roadmap (Upcoming)
+The following core security mitigations are currently in development for the next minor release:
+1. **Malware/Spyware Domain Blacklist:** Implementing network-level blocking for known high-risk domains (e.g., untrusted third-party game launchers, automated malicious APK downloaders).
+2. **Drive-by Download Interception:** Automatic termination of stealth background downloads attempting to drop executable payloads without explicit user consent.
+3. **SHA-256 Hash Verification:** Built-in cryptographic integrity checks for downloaded artifacts to guard against local system compromise and file-tampering.
+4. **Brotli Compression Evaluation:** Assessing the native `br` compression stack integration for faster data transmission overhead.
+s.
 
 🛠️ How to Run
 ### Running the Executable
