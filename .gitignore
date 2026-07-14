@@ -36,3 +36,5 @@ _ISPack*.tmp
 __internal/
 _internal/
 *.reg
+SfpbNetProj/
+*.pak
